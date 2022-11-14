@@ -1,6 +1,7 @@
 # portScanner
 A random port scanner, for fun. 
--TODO
+
+- TODO
 1. Add custom port selection
 2. Add custom network protocole type
 3. Add goroutine
